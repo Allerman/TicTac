@@ -13,3 +13,8 @@ O objetivo deste projeto é calcular e exibir o tempo em que o servidor está at
 
 - Contagem de tempo decorrido em dias, horas, minutos e segundos.
 - Atualização automática do tempo a cada segundo usando JavaScript.
+- Interface atraente e responsiva.
+
+#### Como acessar
+O projeto está Hospedado na Netlify, portanto voce poderá visualizar o projeto
+[Clicando Aqui](https://contagem-prod-on.netlify.app)
