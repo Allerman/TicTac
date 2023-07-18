@@ -1,5 +1,7 @@
-# Tic Tac
-Este é um projeto de um cronometro de tempo ativo de servidor.
+# Tic Tac ⏰
+Este é um projeto de um cronometro de tempo ativo de servidor. 
+ 
+  *Ainda havera atualizaçoes e ajustes ⚙️*
 
 #### Ferramentas utilizadas:
 > HTML, CSS e JavaScript.
