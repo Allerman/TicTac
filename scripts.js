@@ -23,7 +23,12 @@ function inicio(){
   interval = setInterval(contagem, 1000);
 }
 
+function NovoInicio(){
+    contagem()
+    interval=setInterval(contagem,1000)
+}
 
+// bntReset
 function FoiDeBase(){
     clearInterval(interval)
     ds=0
@@ -31,7 +36,7 @@ function FoiDeBase(){
     min=0
     seg=0
 
-    inicio()
+    NovoInicio()
 }
 
 function contagem(){
