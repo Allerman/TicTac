@@ -8,7 +8,7 @@ var interval
 inicio() 
 
 function inicio(){
-  var dataInicio = new Date('2023-07-14T13:16:00');
+  var dataInicio = new Date('2023-10-31T20:22:00');
   var dataAtual = new Date();
   var diferenca = dataAtual - dataInicio;
 
